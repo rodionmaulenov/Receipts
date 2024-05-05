@@ -16,7 +16,7 @@ Linux/macOS:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-git clone https://your-repository-url
+git clone https://github.com/rodionmaulenov/Receipts
 pip install -r requirements.txt
 ```
 
